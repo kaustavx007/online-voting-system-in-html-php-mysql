@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Online voting system - Home</title>
+        <link rel="stylesheet" href="css/stylesheet.css">
+    </head>
+    <body bgcolor="#b290f5">
+            <center>
+            <div id="headerSection">
+            <h1>Welcome to E-vote Poriseba Admin Portal</h1>
+            </div>
+            <hr>
+
+            <div id="loginSection">
+                <h2>Login</h2>
+                <form action="" method="POST">
+                    <input type="number" name="mob" placeholder="Enter mobile" required><br><br>
+                    <input type="password" name="pass" placeholder="Enter password" required><br><br>
+                    <button id="loginbtn" type="submit" name="loginbtn">Login</button><br><br>
+                </form>
+            </div>
+
+            </center>
+	    
+ 
+    </body>
+</html>
